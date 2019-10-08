@@ -1,0 +1,4 @@
+loans on cars:
+audi - 1000000
+benz - 150000
+i20 - 200000
