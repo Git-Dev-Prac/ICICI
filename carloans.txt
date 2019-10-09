@@ -2,3 +2,7 @@ loans on cars:
 audi - 1000000
 benz - 150000
 i20 - 200000
+BMW -2500000
+ford - 150000
+scooty-70000
+pulsur - 150000
